@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": "30",
+    "salary": 50000.0,
+    "company": [
+      "CompanyA",
+      "CompanyB"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": "25",
+    "salary": 60000.0,
+    "company": [
+      "ExampleCorp"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Diego",
+    "age": "35",
+    "salary": 54000.0,
+    "company": [
+      "Serasa",
+      "GFT"
+    ]
+  }
+]
